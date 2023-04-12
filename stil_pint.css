@@ -128,4 +128,14 @@
                 color:gold;
                 border: 2px solid rgb(173, 204, 235);
              }
-         
+     
+  
+    @media screen and (min-width: 500px) and ( max-width:500px) {
+       
+        .cat_goku{
+        height: 9em;
+        border-radius: 15px;  
+        }  
+      
+}
+    
