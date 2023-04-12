@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    margin-top: 5px;
+    padding-right: 5px;
+    padding-left:2px;
+    }
+    .container{
+        width: 100%;
+    }
+    #navbar-printerest{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+    }
+    #pinterest-icon{
+        width: 2em;
+        border-radius: 15px;
+    }
+    .logo{
+        display: flex;
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+    }
+    .img_logo{
+        width: 2em;
+        border-radius: 15px;
+    }
+    .in{
+    display: flex;
+    width: 10%;
+    justify-content: center;
+    }
+    .fo{
+        width: 100%;
+    }
+    .finder{
+        display: flex;
+        width: 100%;
+        justify-content: center;  
+        border: 0px solid;
+        background-color: darkgrey;
+        border-radius: 15px;
+        height: 38px;
+    }
+    .btn_in{
+        background-color: black;
+        color: white;
+        border-radius: 15px;
+        height: 38px;
+        align-items: center;
+    }
